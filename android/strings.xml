@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Surveillance</string>
+    <string name="title_activity_home_screen">Surveillance</string>
+
+    <string name="home_btn_record">Record</string>
+    <string name="home_welcome1">Welcome to the Raspberry Pi Home Surveillance System!</string>
+    <string name="home_welcome2">To send a command to the Pi Camera, please record a voice command using the button below.</string>
+    <string name="no_match">Sorry, no match was found for your voice input. Please try again.</string>
+
+    <string name="title_voice_dialog">Select the closest match</string>
+    <string name="try_again_dialog">No match found</string>
+
+    <string name="ip_label">Address of your PI: </string>
+    <string name="ip_init">proxy70.yoics.net</string>
+    <string name="ip_port">Port: </string>
+    <string name="port_init">0</string>
+</resources>
